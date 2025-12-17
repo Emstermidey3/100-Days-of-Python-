@@ -1,1 +1,37 @@
+# Printing practice
+print("1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.")
+print("2. Knead the dough for 10 minutes.")
+print("3. Add 3g of Salt.")
+print("4. Leave to rise for 2 hours.")
+print("5. Bake at 200 degrees C for 30 minutes.")
+print("6. Get ready for dishing.")
+
+# String manipulation and Concatenation.
+# Concatenation is like emerging two strings together.
+# Below is an example of Concatenation.
+print("BYE"+" "+ "PEOPLE")
+print("0. Exit"+ " and " + "Remember those recipes.")
+
+# PYTHON INPUT FUNCTION
+# Just as if you are prompting the user in this aspect.
+# still the same way earlier as the print, but now is a different function "Input"
+print("Hello " + input("What is your name?")+ "!")
+
+# Assignment of Variables.
+name=input("How old are you?")
+print("WOOWWWWW")
+val = input("What is your favorite color?")
+print(val + " is my best colour too")
+
+# How to check the length of user input.
+print(len(input("What is your name?")))
+# Alternatively
+Username = ("JACKSON")
+Length = (" ")
+print(Username + Length)
+# PROJECT
+# Create a Band name generator, send your code to this number +2348155687173
+Username_address = input("Where do you grow up from?\n")
+username_pet = input("What is the name of your lovely pet?\n")
+print(Username_address + " " + username_pet)
 
